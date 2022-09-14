@@ -10,12 +10,12 @@
    <br />
     <a href="/releases">Download</a>
     .
-    <a href="https://github.com/NitishGadangi/QR-Hunt/issues">Report Bug</a>
+    <a href="https://github.com/blkluv/QR-Hunt/issues">Report Bug</a>
     .
    <a href="#contribution">Contribute</a>
   
-  <h4 align="center">Check out the Demo Video 📽 on <a href="https://www.youtube.com/watch?v=d_L8FHtgqVA">Youtube</a></h3>
-  <h5 align="center">Made with ❤️ by  <a href="https://nitishgadangi.github.io/">Nitish</a></h3>
+
+  <h5 align="center">Made with ❤️ by  <a href="https://blkluv.github.io/">The Wizard of Hahz</a></h3>
   
   </p>
 </p>
